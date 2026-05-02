@@ -1,10 +1,11 @@
-🔐 Password Strength Checker – Task 3
-Project Overview
+🔐 Password Strength Checker – 
+
+## Project Overview
 
 This project is a Password Strength Checker designed to help users create secure passwords and understand the importance of password hygiene in cybersecurity. Weak passwords are one of the most common vulnerabilities exploited by attackers, and this tool emphasizes best practices in password security.
 The program is built using Python, with a user-friendly interface that provides real-time feedback on password strength.
 
-#Features
+## Features
 
 #Password Validation
 Checks for length, uppercase letters, lowercase letters, numbers, and special characters.
@@ -21,7 +22,7 @@ Can be extended to store passwords securely using hashing algorithms.
 Built with Tkinter for a clean, easy-to-use interface.
 Users can enter passwords and instantly see feedback.
 
-#Technologies Used
+## Technologies Used
 
 Technology	Purpose
 Python 3.x	Core programming language
@@ -33,7 +34,7 @@ re (Regular Expressions)	Password pattern validation
 JSON	Optional storage for password data
 
 
-#How It Works
+## How It Works
 
 User inputs a password into the interface.
 
@@ -55,7 +56,7 @@ Security Principle:
 
 Encourages strong password creation, reducing the risk of brute-force or dictionary attacks.
 
-#Cybersecurity Focus
+## Cybersecurity Focus
 
 Password Hygiene: Highlights the importance of strong, unpredictable passwords.
 
